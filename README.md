@@ -10,4 +10,4 @@ Our program searches several sources on the internet to retrieve possible answer
 
 Example Run:
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/omerunlusoy/Crosswind---AI-based-Crossword-Puzzle-Solver/blob/main/Final%20Report/example.png)
